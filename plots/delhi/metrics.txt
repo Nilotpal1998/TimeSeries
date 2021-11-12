@@ -1,0 +1,17 @@
+############################ unit root test for original
+Value of test-statistic is: -1.9146 
+
+Critical values for test statistics: 
+      1pct  5pct 10pct
+tau1 -2.58 -1.95 -1.62
+
+############################ unit root test for diff 1
+Value of test-statistic is: -4.9106 
+
+Critical values for test statistics: 
+      1pct  5pct 10pct
+tau1 -2.58 -1.95 -1.62
+
+############################ 
+Ps Qs ps qs     AICs    AICcs    BICs
+2  1  1  2  1 65.36241 65.36608 65.4941 
